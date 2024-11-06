@@ -699,7 +699,7 @@
 
   * Remote Repository : Github 등의 서비스를 통한 온라인 상의 저장소, 호스팅을한 온라인 저장소
 
-    <img src="../STUDY/images/operation.png" alt="기본 동작 원리">
+    <img src="/images/operation.png" alt="기본 동작 원리">
 
 * 기본 용어
   * origin : Remote Repository(Github 등의 온라인 저장소)에 있는 코드
